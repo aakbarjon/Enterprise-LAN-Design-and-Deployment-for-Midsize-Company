@@ -1,9 +1,14 @@
 # Midsize-Company-LAN-Implementation
 
+Description:
+
+
+
 
 Logical Topology:
 
-<img width="1226" alt="Logical View" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/da9e1120-9b6c-42c5-8f63-83b25dd4b0fa">
+<img width="1216" alt="Logical" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/9485cf84-ec68-451f-bff9-4da29790c2e1">
+
 
 
 Physical Topology:

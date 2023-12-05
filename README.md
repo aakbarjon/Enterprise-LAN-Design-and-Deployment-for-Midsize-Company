@@ -15,32 +15,31 @@ Devices Used:
 
 Cisco ISR Routers 2911:
 
-![routers-2911-isr](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/23ece46b-2b04-407d-95d5-b8c486ea1431)
+<img width="245" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/26951f6b-e0f5-4158-9e79-b7fa82829457">
 
 
 Cisco Switch 2960:
 
-![Switch 2960](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/a572baba-5dcc-4654-8eba-c1229f55eed8)
+<img width="215" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/f03ed98c-0c7d-4c0f-a0ac-fac33f571e77">
+
 
 
 
 Cisco Layer 3 Switch 3550:
 
-![Switch 3550](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/6b3078a3-99f4-412b-8684-12a0dc0f7cc7)
+<img width="241" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/f0cea20e-516f-4c12-a582-a428187659cc">
 
 
 Servers:
 
-![Cisco Server](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/9378587a-36b8-4e67-9390-f7c288151c64)
-
+<img width="245" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/4774e8dd-4aa2-4eb1-9509-fd8d55934a63">
 
 Printers:
 
-
-![Printer Picture](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/e117fac7-9812-4e47-a5bc-af28827f6303)
+<img width="153" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/5694e6ee-7c6c-48be-a153-351c372d115a">
 
 
 Personal Computers:
 
-![PC Picture](https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/6b6ed61c-3f09-425d-adc4-0c534d6ced88)
+<img width="148" alt="image" src="https://github.com/aakbarjon/Enterprise-LAN-Design-and-Deployment-for-Midsize-Company/assets/99519116/f34ac59c-83eb-4377-ba28-119fefda95b5">
 
